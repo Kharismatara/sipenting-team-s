@@ -69,3 +69,7 @@ footer {
 #cekstuntinghasil{
   background-color:#EEFCF3;
 }
+.btncustom {
+  background-color:var(--primary);
+  color:white;
+}
